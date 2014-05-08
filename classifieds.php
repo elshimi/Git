@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="CSS/styleMah.responsive.css" type="text/css" />
     
 <link rel="shortcut icon" href="images/shoofha.ico" mce_href="images/shoofha.ico"/>
-<META NAME="Keywords" CONTENT="هضبة الاهرام,خدمات,حدائق الاهرام,اطباء,حضانات حدائق الاهرام,مطاعم حدائق الاهرام,صيدليات,جيم ,ديكور,شوفها,shoofha,شوفها للاعلان,طبيب بيطري,مدارس,رعاية صحية,امن وحراسة,حلاق,كوافير,كافيه,ميكانيكى,سباك,كهربائي,اثاث,مغسلة,دراي كلين,ايجار سيارات,ليموزين,صيدلية,تيك اواي,اسماك,بيتزا,حلوانى,كشري,مخبز,تشطيبات,تعليم قياده,دليل حدائق الاهرام">
+<META NAME="Keywords" CONTENT=" ffffهضبة الاهرام,خدمات,حدائق الاهرام,اطباء,حضانات حدائق الاهرام,مطاعم حدائق الاهرام,صيدليات,جيم ,ديكور,شوفها,shoofha,شوفها للاعلان,طبيب بيطري,مدارس,رعاية صحية,امن وحراسة,حلاق,كوافير,كافيه,ميكانيكى,سباك,كهربائي,اثاث,مغسلة,دراي كلين,ايجار سيارات,ليموزين,صيدلية,تيك اواي,اسماك,بيتزا,حلوانى,كشري,مخبز,تشطيبات,تعليم قياده,دليل حدائق الاهرام">
 
 <META NAME="Description" CONTENT="Advertising company and services,a services directory in the (Al-Ahram Gardens),Contains all the companies and services as well as phone numbers and a map of each company">
 <!-- InstanceBeginEditable name="doctitle" -->
